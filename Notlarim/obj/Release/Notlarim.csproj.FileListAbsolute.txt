@@ -1,0 +1,10 @@
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\bin\Release\Notlarim.exe.config
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\bin\Release\Notlarim.exe
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\bin\Release\Notlarim.pdb
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.frmMain.resources
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.frmSorgu.resources
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.Properties.Resources.resources
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.exe
+C:\Users\omer\Desktop\C-SARP\notlarim\Notlarim\Notlarim\obj\Release\Notlarim.pdb
